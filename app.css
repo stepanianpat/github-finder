@@ -1,0 +1,8 @@
+.searchContainer {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.bg-primary {
+  background: linear-gradient(120deg, #2980b9, #8e44ad);
+}
